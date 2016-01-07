@@ -116,12 +116,36 @@ h2{
 }
 
 #fifth{
-	background: #ccc;
-	height: 400px;
+	background: url(images/back4.jpg) 50% 0 no-repeat fixed;
+	text-align: center;
+	color: white;
+	height: 800px;
 	margin: 0 auto;
 	padding: 40px 0 0 0;
 }
 
+#fifth .bg1{
+	background: url(images/dslr.png) 50% 0 no-repeat fixed;
+	height: 1300px;
+	margin: 0 auto;
+	padding: 0;
+	position: absolute;
+	width: 1200px;
+	z-index: 200;
+}
+
+#sixth{
+	background: url(images/back8.jpg) 50% 0 no-repeat fixed;
+	color: white;
+	height: 850px;
+	padding: 100px 0 0 0;
+}
+#seven{
+	background: url(images/back6.jpg) 50% 0 no-repeat fixed;
+	color: white;
+	height: 850px;
+	padding: 100px 0 0 0;
+}
 .story{
 	margin: 0 auto;
 	min-width: 980px;
