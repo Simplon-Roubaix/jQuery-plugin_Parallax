@@ -84,7 +84,7 @@ h2{
 #intro{
 	background:url(images/back1.jpg) 50% 0 no-repeat fixed;
 	color: white;
-	height: 600px;
+	height: 800px;
 	margin: 0 auto;
 	padding: 0;
 }
@@ -111,7 +111,7 @@ h2{
 #third{
 	background: url(images/back3.jpg) 50% 0 no-repeat fixed;
 	color: white;
-	height: 650px;
+	height: 850px;
 	padding: 100px 0 0 0;
 }
 
