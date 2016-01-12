@@ -1,6 +1,6 @@
 #jQuery Parallax
 ===============
-
+##utilisation d'un plugin jQuery 
 ## Utilisation du plugin Parallax
 
 Le plugin Parallax crée un déplacement de plusieurs éléments (au schroll ou à la souris) sur des couches et à des vitesses différentes. 
